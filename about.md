@@ -6,4 +6,4 @@ permalink: /about/
 
 
 
-email: w2asd[at]icloud.com
+email: w2asd@icloud.com
