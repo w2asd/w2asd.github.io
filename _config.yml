@@ -7,12 +7,12 @@ description: "w2asd's blog"
 github: w2asd
 timezone: Asia/Shanghai
 url: https://w2asd.github.io
-language: en_US
+language: zh_CN
 
 # social images
 
 favicon: /static/social-media-images/borshch-and-salo-favicon.jpeg
-twitter: "@good-luck-twitter-existing-in-a-few-years"
+twitter: "@eric_h533"
 social-media-image-url: /static/social-media-images/borshch-and-salo.jpeg
 twitter-card-image: do.jpg
 iOS-icon: /static/social-media-images/borshch-and-salo-ios.jpeg
